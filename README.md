@@ -1,4 +1,3 @@
-@'
 # University of Bath – NSS 2025 Data Science Analysis
 
 **Institution:** University of Bath  
@@ -31,4 +30,3 @@ The analysis recommends Business Studies as a promising degree programme for the
 
 ## Academic Context
 Developed as part of the MSc coursework at the University of Bath.
-'@ | Set-Content README.md
